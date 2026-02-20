@@ -1,1 +1,0 @@
-EDUTEN (Education SMKN 10 Surabaya) adalah aplikasi pembelajaran berbasis web. Aplikasi ini memudahkan guru dan siswa dalam mengunggah materi, mengerjakan tugas, serta membuat kuis online dengan nilai yang sudah ditentukan, sehingga proses belajar jadi lebih praktis dan transparan.
